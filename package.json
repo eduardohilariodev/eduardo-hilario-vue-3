@@ -1,10 +1,16 @@
 {
   "name": "eduardo-hilario-vue-3",
   "displayName": "Eduardo Hilario's Vue 3",
+  "publisher": "eduardohilariodev",
+  "publishConfig": {},
   "description": "",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.86.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eduardohilariodev/eduardo-hilario-vue-3"
   },
   "categories": [
     "Extension Packs"
