@@ -1,0 +1,24 @@
+{
+  "name": "eduardo-hilario-vue-3",
+  "displayName": "Eduardo Hilario's Vue 3",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.2"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "antfu.goto-alias",
+    "antfu.vite",
+    "bradlc.vscode-tailwindcss",
+    "dariofuzinato.vue-peek",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "Nuxtr.nuxtr-vscode",
+    "vue.volar",
+    "vue.vscode-typescript-vue-plugin",
+    "YoavBls.pretty-ts-errors"
+  ]
+}
